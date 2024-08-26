@@ -1,4 +1,4 @@
-# agenda
+# Easy to do list (absolute beginner project)
 
 ## Project setup
 ```
